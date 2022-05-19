@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sandyqwerty
+- 👀 I’m a Data analyst
+- 🌱 I’m currently learning Data science/machine learning/AI
+- 📫 Contact me at sandeepkarkera74@gmail.com
